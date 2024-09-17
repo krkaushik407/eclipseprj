@@ -1,0 +1,20 @@
+final keyword
+
+final keyword can be used with class, method and variables.
+
+class
+------
+final class cannot be inherited.
+when we do not want any other class to use our class, 
+we make our class as final.
+
+method
+------
+final methods cannot be overridden by child class
+when we want child class to have same method implementation
+we make the methods final in parent class.
+
+variable
+--------
+final variable can be initialized only once.
+final variable works as constants.
